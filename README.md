@@ -53,4 +53,5 @@ npm run build
 
 ## Credits ✍
 
-Implementation by [@Pappyjay23](https://github.com/Pappyjay23)
+Implementation by [@asadullahdev5](https://github.com/asadullahdev5)
+
