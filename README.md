@@ -20,7 +20,7 @@ Follow these steps to run Titan on your local machine.
 ### Clone this repository
 
 ```bash
-git clone https://github.com/Pappyjay23/Titan.git
+git clone https://github.com/asadullahdev5/Titan.git
 ```
 
 ### Navigate to the directory
