@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+}
+
+.carModel {
+  width: 100% !important;
+  height: 50vh !important;
+}
+.carModel canvas{
+  width: 100% !important;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
