@@ -58,7 +58,7 @@ const LandingPage = ({ toggleMute, isMuted, audioRef }: LandingPageProps) => {
 							alt='Logo'
 							className='h-[40px] w-auto border border-white rounded-full'
 						/>
-						<h1 className='text-3xl'>Titan</h1>
+						<h1 className='text-3xl'>Titanix</h1>
 					</div>
 					<p className='text-center'>Customize your car to your liking.</p>
 					<button
